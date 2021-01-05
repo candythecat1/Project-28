@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Project-27/MatterJSBoilerPlate-master 2"
+		},
+		{
+			"path": "../../C-27/angryBirdsStage2 copy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MatterJSBoilerPlate-master"
+	}
+}
